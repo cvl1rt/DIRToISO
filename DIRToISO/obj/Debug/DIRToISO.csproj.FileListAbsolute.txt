@@ -1,0 +1,10 @@
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\bin\Debug\DIRToISO.exe.config
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\bin\Debug\DIRToISO.exe
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\bin\Debug\DIRToISO.pdb
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\obj\Debug\DIRToISO.csproj.AssemblyReference.cache
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\obj\Debug\DIRToISO.csproj.CoreCompileInputs.cache
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\obj\Debug\DIRToISO.exe
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\obj\Debug\DIRToISO.pdb
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zavier\source\repos\DIRToISO\DIRToISO\obj\Debug\DIRToISO.csproj.Up2Date

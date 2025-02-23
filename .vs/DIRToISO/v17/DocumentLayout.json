@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|c:\\users\\zavier\\source\\repos\\dirtoiso\\dirtoiso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|solutionrelative:dirtoiso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|c:\\users\\zavier\\source\\repos\\dirtoiso\\dirtoiso\\services\\isoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|solutionrelative:dirtoiso\\services\\isoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|c:\\users\\zavier\\source\\repos\\dirtoiso\\dirtoiso\\services\\programservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|solutionrelative:dirtoiso\\services\\programservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|c:\\users\\zavier\\source\\repos\\dirtoiso\\dirtoiso\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|solutionrelative:dirtoiso\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|c:\\users\\zavier\\source\\repos\\dirtoiso\\dirtoiso\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20BEEFE-98BD-4C2F-AA09-4B105F6483DF}|DIRToISO\\DIRToISO.csproj|solutionrelative:dirtoiso\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "DIRToISO\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Models\\Log.cs",
+              "RelativeToolTip": "DIRToISO\\Models\\Log.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:33:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramService.cs",
+              "DocumentMoniker": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Services\\ProgramService.cs",
+              "RelativeDocumentMoniker": "DIRToISO\\Services\\ProgramService.cs",
+              "ToolTip": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Services\\ProgramService.cs",
+              "RelativeToolTip": "DIRToISO\\Services\\ProgramService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:56:47.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\App.config",
+              "RelativeDocumentMoniker": "DIRToISO\\App.config",
+              "ToolTip": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\App.config",
+              "RelativeToolTip": "DIRToISO\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-12T13:55:15.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISOService.cs",
+              "DocumentMoniker": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Services\\ISOService.cs",
+              "RelativeDocumentMoniker": "DIRToISO\\Services\\ISOService.cs",
+              "ToolTip": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Services\\ISOService.cs",
+              "RelativeToolTip": "DIRToISO\\Services\\ISOService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:52:57.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Program.cs",
+              "RelativeDocumentMoniker": "DIRToISO\\Program.cs",
+              "ToolTip": "C:\\Users\\Zavier\\source\\repos\\DIRToISO\\DIRToISO\\Program.cs",
+              "RelativeToolTip": "DIRToISO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:52:42.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
